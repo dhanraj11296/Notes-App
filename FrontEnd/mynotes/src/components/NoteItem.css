@@ -1,0 +1,58 @@
+/* NoteItem.css */
+
+.noteitemcontainer {
+    background-color: #14dc28;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 12px 0;
+    max-width: 500px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    gap:10px;
+  }
+  
+  .noteItems {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .input, textarea, select {
+    padding: 8px;
+    margin: 6px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 100%;
+  }
+  .saveButton{
+    background-color: rgb(230, 230, 23);
+    color:black;
+    gap:10px;
+    padding:15px;
+    width:70px;
+    margin:10px;
+  }
+  .editButton{
+    background-color: rgb(255, 238, 0);
+    color:rgb(4, 130, 27);
+    gap:10px;
+    padding:15px;
+    width:70px;
+    margin:10px;
+  }
+  .deleteButton{
+    background-color: red;
+    color:rgb(230, 221, 221);
+    gap:10px;
+    padding:15px;
+    width:70px;
+    margin:5px;    
+  }
+.category{
+  color:rgb(245, 247, 237);
+  padding:10px;
+}
+
+  

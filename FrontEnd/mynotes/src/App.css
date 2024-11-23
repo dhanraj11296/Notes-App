@@ -1,0 +1,22 @@
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 20px auto;
+  background-image: linear-gradient(to right,rgb(227, 252, 4),rgb(114, 210, 90));
+  border-style: solid;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding:10px;
+  margin-bottom: 20px;  
+  text-align: center;
+  background-color: rgb(237, 248, 29);
+  color:rgb(7, 54, 4);
+  font-family: robotto;
+  font-weight: bold;
+}
+
+

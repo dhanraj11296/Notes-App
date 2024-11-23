@@ -1,0 +1,22 @@
+.searchBar{
+    display:flex; 
+    flex-direction:column;
+    align-items: center;
+}
+.searchBars{
+    width:50%;
+}
+.selectbar{
+    display:flex; 
+    flex-direction:column;
+    align-items: center;
+    width:150px;    
+}
+.heading{
+    display:flex; 
+    flex-direction:column;
+    align-items: center;   
+    padding:10px; 
+    color:rgb(9, 213, 30);
+    font-weight: bold;
+}

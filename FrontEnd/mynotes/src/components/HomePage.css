@@ -1,0 +1,13 @@
+.homeContainer{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    margin:10px;
+    padding:10px;
+    background-image: linear-gradient(to right,rgb(227, 252, 4),rgb(114, 210, 90));
+}
+.searchbarstyle{
+    display:flex;
+    justify-content: center;
+    background-color: red;
+}
